@@ -3,13 +3,10 @@
 
 you can type any thing, and write whatever.
 
-
 today I really want down desktop GITHUB. found sometiem.
-
 
 2017 coming，and I wonder if I can grab this skill.
 
+2019 learning python
 
-
-
-。
+2021 learning python & use git 
